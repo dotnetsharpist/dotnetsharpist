@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stopdotnet&label=Profile%20views&color=0e75b6&style=flat" alt="dotnetsharpist" /> </p>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Vue JS**
 
 - 💬 Ask me about **.NET, ASP.NET, C#**
 
